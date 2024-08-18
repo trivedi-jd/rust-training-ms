@@ -1,2 +1,2 @@
-# rust-training-ms
-This repo contains rust code that were used as an exercise while completing the `Take your first steps with Rust` training by Microsoft.
+# Rust Training
+Rust Exercises that are part of the [Take your first steps with Rust](https://learn.microsoft.com/en-us/training/paths/rust-first-steps/) training by Microsoft with solutions.
