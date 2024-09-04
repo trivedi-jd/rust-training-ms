@@ -3,10 +3,6 @@ name = "rusty-journal"
 version = "0.1.0"
 edition = "2021"
 
-#[dependencies]
-#chrono = "0.4"
-#structopt = "0.3"
-
 [dependencies]
 anyhow = "1.0" 
 home = "0.5"
